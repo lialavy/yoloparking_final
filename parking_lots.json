@@ -1,0 +1,1 @@
+{"northlot": {"name": "North", "video_source": "carPark.mp4", "model_path": "best (4).pt", "bounding_boxes": "bounding_boxes.json"}, "eastlot": {"name": "East", "video_source": "parkinglot1.mp4", "model_path": "best (4).pt", "bounding_boxes": "parkinglot1.mp4_snapshot_00.02.517_bbox.json"}}

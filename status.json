@@ -1,0 +1,17 @@
+{
+    "Lot A": {
+        "occupied": 8,
+        "available": 9,
+        "last_updated": "2025-04-06 22:04:29"
+    },
+    "Lot B": {
+        "occupied": 0,
+        "available": 0,
+        "last_updated": ""
+    },
+    "Lot C": {
+        "occupied": 0,
+        "available": 0,
+        "last_updated": ""
+    }
+}
